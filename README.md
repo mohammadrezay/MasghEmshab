@@ -1,4 +1,4 @@
-# MasghEmshab
+# MasghEmshabBagher.php
 https://quera.org/problemset/10230
 <?php
 list($a, $b, $c)
